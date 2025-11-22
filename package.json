@@ -1,0 +1,19 @@
+{
+  "name": "bangla-auth",
+  "version": "0.0.0",
+  "description": "A simple, secure OAuth 2.0 (PKCE) library for Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abmunshi/bangla-auth.git"
+  },
+  "author": "Abdullah Munshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abmunshi/bangla-auth/issues"
+  },
+  "homepage": "https://github.com/abmunshi/bangla-auth#readme"
+}
